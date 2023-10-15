@@ -3,7 +3,7 @@
 ### KSMess – Социальная сеть для Колледжа Связи №54
 
 • [Google Play](https://play.google.com/store/apps/details?id=com.iongames.messenger&hl=ru)<br/>
-• [AppStore]()<br/>
+• [AppStore](https://apps.apple.com/ru/app/ksmess/id6446104181)<br/>
 
 <div>
       <img src="https://play-lh.googleusercontent.com/WRLv1MG5AM9nQwoE2FLlVKt1Mk2LQfsDY00dHxq-B7LhUUlxTTilxmOjuohQ8dhIi0qH=w2560-h1440-rw" width="24%">
