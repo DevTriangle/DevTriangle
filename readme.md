@@ -14,7 +14,7 @@
 
 ---
 
-### Осталось до – Социальная сеть для Колледжа Связи №54
+### Приложение «Осталось до» – обратный отсчёт
 
 • [Google Play](https://play.google.com/store/apps/details?id=com.itadss.todo.todo_app&hl=ru)<br/>
 • [AppStore]()<br/>
