@@ -34,13 +34,15 @@
       <img src="https://play-lh.googleusercontent.com/O1qKP0rv8WUv_PTkUtHJ_4laXtDC3xunGxTGcRgw4YTVzs2Ql_H2Jehqc6NtSpzkyJI=w2560-h1440-rw" width="32%">
 </div>
 
-• [Git Repository](https://github.com/DevTriangle/todo_app)
+• [Репозиторий Git](https://github.com/DevTriangle/todo_app)
 
 ---
 
 ### Веб-сайт [adsscode.com](https://adsscode.com) на Flutter
 
 Одностраничный веб-сайт презентующий услуги и портфолио компании.
+
+• [Репозиторий Git](https://github.com/DevTriangle/web_code)
 
 ---
 
