@@ -1,6 +1,8 @@
 # Портфолио DevTriangle
 
 ### KSMess – Социальная сеть для Колледжа Связи №54
+Данная социальная сеть помогает в работе студентам и преподавателям колледжа.
+В приложении можно просматривать новостную ленту, обмениваться сообщениями, просматривать расписание и доступные вакансии.
 
 • [Google Play](https://play.google.com/store/apps/details?id=com.iongames.messenger&hl=ru)<br/>
 • [AppStore](https://apps.apple.com/ru/app/ksmess/id6446104181)<br/>
