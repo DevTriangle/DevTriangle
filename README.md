@@ -54,10 +54,10 @@
 
 
 <div>
-      <img src="https://play-lh.googleusercontent.com/WRLv1MG5AM9nQwoE2FLlVKt1Mk2LQfsDY00dHxq-B7LhUUlxTTilxmOjuohQ8dhIi0qH=w2560-h1440-rw" width="49%">
-      <img src="https://play-lh.googleusercontent.com/h3WqiDUG5q6sPUo0-jgJbrQAriYPvZ2VyT8KnHpLKImzP7nRltEbVWujkZ5tvItksg=w2560-h1440-rw" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113600_385.jpg" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113556_690.jpg" width="49%">
 </div>
 <div>
-      <img src="https://play-lh.googleusercontent.com/WRLv1MG5AM9nQwoE2FLlVKt1Mk2LQfsDY00dHxq-B7LhUUlxTTilxmOjuohQ8dhIi0qH=w2560-h1440-rw" width="49%">
-      <img src="https://play-lh.googleusercontent.com/h3WqiDUG5q6sPUo0-jgJbrQAriYPvZ2VyT8KnHpLKImzP7nRltEbVWujkZ5tvItksg=w2560-h1440-rw" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113609_661.jpg" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113615_914.jpg" width="49%">
 </div>
