@@ -61,3 +61,6 @@
       <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113609_661.jpg" width="49%">
       <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113615_914.jpg" width="49%">
 </div>
+<div>
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113617_799.jpg" width="100%">
+</div>
