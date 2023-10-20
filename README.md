@@ -64,3 +64,7 @@
 <div>
       <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113617_799.jpg" width="100%">
 </div>
+
+---
+
+### Приложение для ювелирного магазина
