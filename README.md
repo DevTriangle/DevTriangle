@@ -46,4 +46,18 @@
 
 ---
 
-### 
+### Приложение для взаимодействия студентов и преподавателей (Classroom)
+
+Кроссплатформенное приложение для взаимодействия между студентами и преподавателями (функциаонал приложения похож на Google Classroom).
+<br/>
+Приложение позволяет создавать курсы, отправлять задания, выставлять оценки и общаться в чате.
+
+
+<div>
+      <img src="https://play-lh.googleusercontent.com/WRLv1MG5AM9nQwoE2FLlVKt1Mk2LQfsDY00dHxq-B7LhUUlxTTilxmOjuohQ8dhIi0qH=w2560-h1440-rw" width="49%">
+      <img src="https://play-lh.googleusercontent.com/h3WqiDUG5q6sPUo0-jgJbrQAriYPvZ2VyT8KnHpLKImzP7nRltEbVWujkZ5tvItksg=w2560-h1440-rw" width="49%">
+</div>
+<div>
+      <img src="https://play-lh.googleusercontent.com/WRLv1MG5AM9nQwoE2FLlVKt1Mk2LQfsDY00dHxq-B7LhUUlxTTilxmOjuohQ8dhIi0qH=w2560-h1440-rw" width="49%">
+      <img src="https://play-lh.googleusercontent.com/h3WqiDUG5q6sPUo0-jgJbrQAriYPvZ2VyT8KnHpLKImzP7nRltEbVWujkZ5tvItksg=w2560-h1440-rw" width="49%">
+</div>
