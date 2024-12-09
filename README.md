@@ -7,10 +7,11 @@
 • [AppStore](https://apps.apple.com/us/app/%D0%BC%D0%BC-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80/id6473836988?platform=iphone)<br/>
 
 <div>
-      <img src="https://github.com/user-attachments/assets/1ca9ee6e-8d4b-46ed-897d-86ad6960b72e" width="24%">
-      <img src="https://github.com/user-attachments/assets/57301e23-dc9c-4073-8f8a-f19ded7e484b" width="24%">
-      <img src="https://github.com/user-attachments/assets/e2b898e5-8fe3-4cf0-9a93-ae08a1645759" width="24%">
-      <img src="https://github.com/user-attachments/assets/3ab8c72a-34a9-4e73-9988-969ad3cac0a8" width="24%">
+      <img src="https://github.com/user-attachments/assets/1ca9ee6e-8d4b-46ed-897d-86ad6960b72e" width="19%">
+      <img src="https://github.com/user-attachments/assets/57301e23-dc9c-4073-8f8a-f19ded7e484b" width="19%">
+      <img src="https://github.com/user-attachments/assets/e2b898e5-8fe3-4cf0-9a93-ae08a1645759" width="19%">
+      <img src="https://github.com/user-attachments/assets/4728fb9c-e808-4c95-827d-13391b5fdc8e" width="19%">
+      <img src="https://github.com/user-attachments/assets/3ab8c72a-34a9-4e73-9988-969ad3cac0a8" width="19%">
 </div>
 
 ### KSMess – Социальная сеть для Колледжа Связи №54
