@@ -43,7 +43,6 @@
 • [AppStore](https://apps.apple.com/ru/app/%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C-%D0%B4%D0%BE/id6446589517)
 <br/>
 <br/>
-• [Репозиторий Git](https://github.com/DevTriangle/todo_app)<br/>
 
 <div>
       <img src="https://play-lh.googleusercontent.com/OFFISRvuoN8eNi_D0e665BcNMmUB-U1XcpPheygNAHhzPZZahf7OTpIUzRN6Nb2L26E=w2560-h1440-rw" width="32%">
@@ -88,8 +87,6 @@
 
 Кроссплатформенное приложение с возможностью просмотра ювелирных товаров и добавления их в корзину.
 
-• [Репозиторий Git](https://github.com/DevTriangle/jewelry)
-
 <div>
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114134_638.jpg?token=GHSAT0AAAAAACIJ3W5QIKLB6JA67ABXNRWCZJSH6AA" width="24%"/>
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114132_498.jpg?token=GHSAT0AAAAAACIJ3W5QQZGFE6T775MUXYF4ZJSH54Q" width="24%"/>
@@ -100,13 +97,3 @@
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114121_098.jpg?token=GHSAT0AAAAAACIJ3W5RK7RN6EQUF4WYJYPUZJSH5KA" width="24%"/>
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114118_422.jpg?token=GHSAT0AAAAAACIJ3W5RV6CTQOEUQXAUB5AUZJSH3UA" width="24%"/>
 </div>
-
-### ✈️ Приложение для планирования путешествий
-Приложение помогает собрать багаж для путешествий по разным странам. Также можно посмотреть актуальную погоду любого города и точные курсы валют.
-
-• [Репозиторий Git](https://github.com/DevTriangle/journeys_app)
-
-### 🏗️ Приложение для строительной компании 
-В приложении можно посмотреть информацию о готовых постройках, доступных материалах, списки строителей и т.д.
-
-• [Репозиторий Git](https://github.com/DevTriangle/building_app)
