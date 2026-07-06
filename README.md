@@ -11,9 +11,7 @@
             <img class="stack-item" src="./logo/ts.svg" height="64px"/>
             &nbsp;&nbsp;
             <img class="stack-item" src="./logo/cs.svg" height="64px"/>
-      </div>
-      &nbsp;&nbsp;
-      <div align="center">
+            &nbsp;&nbsp;
             <img class="stack-item" src="./logo/nestjs.svg" height="64px"/>
             &nbsp;&nbsp;
             <img class="stack-item" src="./logo/net.svg" height="64px"/>
