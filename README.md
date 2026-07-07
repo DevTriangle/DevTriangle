@@ -1,6 +1,6 @@
 # DevTriangle
 
-- **GO/NestJS Backend engineer**
+- **GO/NestJS Backend software engineer**
 
 ## Tech stack
 
